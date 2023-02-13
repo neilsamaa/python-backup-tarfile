@@ -42,3 +42,5 @@ file= tarfile.open(name_of_file,"w")
 #closing the file
 file.close()
 ```
+## Output
+As an output we can see a tar file created with the name “TutorialsPoint”.
